@@ -8,7 +8,7 @@ Muddle developed at MIT-DM in late 1960s and 1970s. I used Muddle
 to write MIGS or Muddle Interactive 
 Graphs System.
 
-- 👀 I’m interested in ...PDO-10s, ITS, MUDDLE,
+- 👀 I’m interested in ...PDP-10s, ITS, MUDDLE,
 Computer Graphics.
 - 🌱 I’m currently learning ...
 Python is my latest programming environment I 
