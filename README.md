@@ -2,7 +2,7 @@
 I have had both hardware and software experience for 
 40 years. My hardware experience includes
  vlsi design and a vector drawing computer graphics system.
-As to software, I have programmed in about 16 computer languages.
+As to software, I have programmed in about 20 computer languages.
 My favorite programming environment is
 Muddle developed at MIT-DM in late 1960s and 1970s. I used Muddle 
 to write MIGS or Muddle Interactive 
@@ -17,8 +17,8 @@ has a native Python programming environment.
 Also, I have done a lot of code  
 in Perl. Note: my cellphone has a 6 core 
   Apple A14 Bionic CPU and an 4 core GPU. It is also
-About 1000 times faster than a PDP-10 mainframe. 
-- 💞️ I’m looking to collaborate on ...
+About 2000 times faster than a PDP-10 mainframe. 
+- 💞️ I’m looking to collaborate on ... Muddle, ITS, and vector graphics 
 
 - 📫 How to reach me ... rrs0@EarthLink.net or rrs0@icloud.com
 
