@@ -15,12 +15,12 @@ Python is my latest programming environment I
 have learn and use. My cellphone even
 has a native Python programming environment.
 Also, I have done a lot of code  
-in Perl. Note: my cellphone has a dual core 
-ARM-8 CPU and an 6 core GPU. It is also
+in Perl. Note: my cellphone has a 6 core 
+  Apple A14 Bionic CPU and an 4 core GPU. It is also
 About 1000 times faster than a PDP-10 mainframe. 
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me ...rrs0.EarthLink.net
+- 📫 How to reach me ... rrs0@EarthLink.net or rrs0@icloud.com
 
 <!---
 Rick-Shiffman/Rick-Shiffman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
