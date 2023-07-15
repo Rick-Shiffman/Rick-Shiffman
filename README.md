@@ -17,7 +17,8 @@ has a native Python programming environment.
 Also, I have done a lot of code  
 in Perl. Note: my cellphone has a 6 core 
   Apple A14 Bionic CPU and an 4 core GPU. It is also
-About 2000 times faster than a PDP-10 mainframe. 
+About 2000 times faster than a PDP-10 mainframe.
+Plus it has many Gbite of RAM and Storage.
 - 💞️ I’m looking to collaborate on ... Muddle, ITS, and vector graphics 
 
 - 📫 How to reach me ... rrs0@EarthLink.net or rrs0@icloud.com
